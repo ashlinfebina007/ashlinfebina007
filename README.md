@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ashlin Febina L S! 👋
 
-<!--
-**ashlinfebina007/ashlinfebina007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+**Learning. Building. Improving.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a BCA student passionate about learning web development and building creative, useful projects.
+
+### 👩‍💻 About Me
+
+- 🎓 Currently pursuing Bachelor of Computer Applications (BCA).
+- 🌱 Learning HTML, CSS and JavaScript.
+- 💻 Interested in Frontend Web Development.
+- 🚀 Building projects to improve my practical skills.
+- 🎯 Focused on continuous learning and personal growth.
+- 📍 Chennai, Tamil Nadu, India.
+
+### 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
+
+### 🚀 Featured Project
+
+**BloodConnect**
+
+A frontend-based blood donor search and registration platform.
+
+### 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ashlinfebina
+
+---
+
+⭐ *Learning something new every day and building my journey in tech.*
