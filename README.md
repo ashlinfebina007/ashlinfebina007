@@ -24,11 +24,21 @@ I'm a BCA student passionate about learning web development and building creativ
 - GitHub
 - Visual Studio Code
 
+### 💾 Storage
+
+- Browser LocalStorage
+
 ### 🚀 Featured Project
 
 **BloodConnect**
 
 A frontend-based blood donor search and registration platform.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Browser LocalStorage
 
 ### 🤝 Connect With Me
 
