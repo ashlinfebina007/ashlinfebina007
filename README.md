@@ -47,3 +47,20 @@ A frontend-based blood donor search and registration platform.
 ---
 
 ⭐ *Learning something new every day and building my journey in tech.*
+
+## 💻 Technical Skills
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+
+### Currently Learning
+- JavaScript
+- Backend Development
+- Python
